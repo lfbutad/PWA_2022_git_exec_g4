@@ -1,1 +1,34 @@
+ h1,
+ h2,
+ p {
+     font-family: Georgia;
+     font-size: 20px;
+ }
  
+ h1,
+ h2 {
+     margin-top: 0px;
+     margin-bottom: 0px;
+     margin-right: 0px;
+     margin-left: 0px;
+ }
+ 
+ p {
+     line-height: 1.5em;
+ }
+ 
+ .base {
+     background-color: #eeeeee;
+ }
+ 
+ .bloco1 {
+     background-color: orange;
+ }
+ 
+ .bloco2 {
+     background-color: green;
+ }
+ 
+ .bloco3 {
+     background-color: red;
+ }
