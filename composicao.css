@@ -25,10 +25,13 @@ p {
 
 .bloco1 {
     background-color: orange;
+    float: left;
+    width: 200px;
 }
 
 .bloco2 {
     background-color: green;
+    margin-left: 200px;
 }
 
 .bloco3 {
